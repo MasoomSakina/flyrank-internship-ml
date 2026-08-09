@@ -1,0 +1,5 @@
+{
+    "baseline_f1_score": 0.6672,
+    "model_f1_score": 0.7219,
+    "total_recommend_refresh_pages": 8031
+}
